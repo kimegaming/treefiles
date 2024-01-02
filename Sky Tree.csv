@@ -1,7 +1,7 @@
 ﻿id,parentId,name,lastName,fullName,position,image
 200,,Sky,So,Sky So,Partner,C:\Users\JP217AV\OneDrive - EY\Desktop\P2\Company tree\Photo collection\P.Sky So.jpg
 201,200,Vesper,Wang,Vesper Wang,Senior Manager,C:\Users\JP217AV\OneDrive - EY\Desktop\P2\Company tree\Photo collection\SM.Vesper Wang.jpg
-202,200,Arni,Leung,Arni Leung,Senior Manager,C:\Users\JP217AV\OneDrive - EY\Desktop\P2\Company tree\Photo collection\SM.Arni Leung.jpg
+202,200,Arni,Leung,Arni Leung,Senior Manager,https://sites.ey.com/sites/FRMCounselingTree/Shared%20Documents/General/Photo%20collection/SM.Arni%20Leung.jpg
 203,200,Iris,Cheuk,Iris Cheuk,Senior Manager,C:\Users\JP217AV\OneDrive - EY\Desktop\P2\Company tree\Photo collection\SM.Iris Cheuk.jpg
 204,200,Ann GY,Wang,Ann GY Wang,Senior Manager,C:\Users\JP217AV\OneDrive - EY\Desktop\P2\Company tree\Photo collection\SM.Ann GY Wang.jpg
 205,200,Francis,Lo,Francis Lo,Senior Manager,C:\Users\JP217AV\OneDrive - EY\Desktop\P2\Company tree\Photo collection\SM.Francis Lo.jpg
